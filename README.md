@@ -67,5 +67,5 @@ Please report all comments and/or bugs to guinevere.q.lee@gmail.com
 
 
 
-Run time on a 2017 Macbook Pro i7 16GB was approximately 1 minute.
+Run time on a 2017 Macbook Pro i7 16GB was approximately 1 minute per genome.
 
