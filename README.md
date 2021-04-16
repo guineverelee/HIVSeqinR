@@ -5,6 +5,10 @@ Please download the latest version.  "HIVSeqinR" is an R-based pipeline that pro
 UPDATE & Bug Fixes History
 #####################################
 
+HIVSeqinR update, April 15, 2021.
+1. Please make sure to include at least one reference sequence or positive control per run.  If there is no positive control in the sequencing batch, then please append Examples_8E5_HXB2.fasta to your input fasta.
+
+
 HIVSeqinR update, March 27 ,2020.  
 1. Please ensure your FASTA sequence names are unique.  
 2. Please ensure the only special characters in your FASTA sequence names is "_".  HIVSeqinR will not take any sequence names with other special characters.
